@@ -1,0 +1,3 @@
+﻿UserID,AdminID,RequestedRole,Organization,ProofDocuments,RequestStatus
+1,1,SatelliteOperator,SatNOGS Public Dataset Import,Synthetic seed record for imported public data; not a real user request.,Approved
+1,1,GroundStationOperator,SatNOGS Public Dataset Import,Synthetic seed record for imported public data; not a real user request.,Approved
